@@ -9,3 +9,8 @@ if (!require(devtools)) install.packages("devtools")
 library(devtools)
 install_github("bappa10085/QI")
 ```
+
+You can also install the package from [CRAN](https://cran.r-project.org/web/packages/QI/index.html)
+```
+install.packages("QI")
+```
